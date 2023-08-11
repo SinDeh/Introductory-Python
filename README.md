@@ -64,10 +64,12 @@ This repository contains a collection of Python scripts that cover various topic
 ### 15. Calculate Averages and Sorting
 - File: `averageGPA_sort_GPA_fromCSV.py`
 - Description: This code reads data from an input CSV file, calculates averages, sorts the results, and writes them to an output CSV file.
+- Data file that needs for running this code is `input.csv`
 
 ### 16. Hashed Password Reverse Lookup
 - File: `hack_with_rainbow.py`
 - Description: This code reads hashed passwords from an input CSV file, attempts to reverse-hash them using a range of numbers, and writes the reverse-hashed passwords along with the corresponding usernames to an output CSV file.
+- Data file that needs for running this code is `input1.csv`
 
 ### 17. Determine Prime Numbers
 - File: `prime_number.py`
