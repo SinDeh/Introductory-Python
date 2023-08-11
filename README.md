@@ -1,5 +1,4 @@
 # Introductory-Python
-# Professional Python Code Repository
 
 This repository contains a collection of Python scripts that cover various topics and tasks. Each script is designed to perform a specific function or solve a particular problem. Below is a brief overview of the scripts available in this repository:
 
