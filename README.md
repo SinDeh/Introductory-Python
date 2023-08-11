@@ -90,19 +90,19 @@ This repository contains a collection of Python scripts that cover various topic
 - File: `lower_upper_letters_in_words.py`
 - Description: This script takes an input word and determines whether to convert it to uppercase, lowercase, or maintain its case based on the count of uppercase and lowercase letters.
 
-### 21. Title Casing Names
+### 22. Title Casing Names
 - File: `make_name_standard.py`
 - Description: This script takes a series of names as input, capitalizes the first letter of each name, and outputs the names in title case.
 
-### 22. Vocabulary Translator
+### 23. Vocabulary Translator
 - File: `online_translater.py`
 - Description: This script takes a list of vocabulary words and their translations, and then translates a given sentence based on the provided vocabulary.
 
-### 23. Name Counter
+### 24. Name Counter
 - File: `vote_counter_system.py`
 - Description: This script takes a series of names as input and outputs the names along with their respective counts, sorted alphabetically.
 
-### 24. Consonant Formatter
+### 25. Consonant Formatter
 - File: `work_on_strings.py`
 - Description: This script takes a string of letters as input and outputs the consonants with a period before each of them.
 
